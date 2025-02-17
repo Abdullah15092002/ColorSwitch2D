@@ -1,0 +1,20 @@
+# Unity Gereksiz Dosyalar
+Library/
+Logs/
+Temp/
+obj/
+Build/
+Builds/
+UserSettings/
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+*.pidb
+*.suo
+*.manifest
+*.mdb
+*.opendb
+*.VC.db
+/Packages/
+.vscode/
