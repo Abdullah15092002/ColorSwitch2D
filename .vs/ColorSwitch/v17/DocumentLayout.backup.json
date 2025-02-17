@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdul\\ColorSwitch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5FA549-89E9-793C-6966-C4CEEA1B3E2A}|Assembly-CSharp.csproj|c:\\users\\abdul\\colorswitch\\assets\\scripts\\pointmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5FA549-89E9-793C-6966-C4CEEA1B3E2A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pointmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5FA549-89E9-793C-6966-C4CEEA1B3E2A}|Assembly-CSharp.csproj|c:\\users\\abdul\\colorswitch\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5FA549-89E9-793C-6966-C4CEEA1B3E2A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5FA549-89E9-793C-6966-C4CEEA1B3E2A}|Assembly-CSharp.csproj|c:\\users\\abdul\\colorswitch\\assets\\scripts\\colorchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5FA549-89E9-793C-6966-C4CEEA1B3E2A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\colorchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5FA549-89E9-793C-6966-C4CEEA1B3E2A}|Assembly-CSharp.csproj|C:\\Users\\abdul\\ColorSwitch\\assets\\scripts\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5FA549-89E9-793C-6966-C4CEEA1B3E2A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5FA549-89E9-793C-6966-C4CEEA1B3E2A}|Assembly-CSharp.csproj|C:\\Users\\abdul\\ColorSwitch\\assets\\scripts\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5FA549-89E9-793C-6966-C4CEEA1B3E2A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5FA549-89E9-793C-6966-C4CEEA1B3E2A}|Assembly-CSharp.csproj|C:\\Users\\abdul\\ColorSwitch\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5FA549-89E9-793C-6966-C4CEEA1B3E2A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5FA549-89E9-793C-6966-C4CEEA1B3E2A}|Assembly-CSharp.csproj|C:\\Users\\abdul\\ColorSwitch\\assets\\scripts\\buttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5FA549-89E9-793C-6966-C4CEEA1B3E2A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5FA549-89E9-793C-6966-C4CEEA1B3E2A}|Assembly-CSharp.csproj|C:\\Users\\abdul\\ColorSwitch\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5FA549-89E9-793C-6966-C4CEEA1B3E2A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5FA549-89E9-793C-6966-C4CEEA1B3E2A}|Assembly-CSharp.csproj|C:\\Users\\abdul\\ColorSwitch\\assets\\scripts\\scoredataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F5FA549-89E9-793C-6966-C4CEEA1B3E2A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoredataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\ColorSwitch\\Assets\\Scripts\\Point.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Point.cs",
+              "ToolTip": "C:\\Users\\abdul\\ColorSwitch\\Assets\\Scripts\\Point.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T11:21:18.235Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\ColorSwitch\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\abdul\\ColorSwitch\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T13:17:39.481Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PointMovement.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\ColorSwitch\\Assets\\Scripts\\PointMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PointMovement.cs",
+              "ToolTip": "C:\\Users\\abdul\\ColorSwitch\\Assets\\Scripts\\PointMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PointMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T05:00:59.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\ColorSwitch\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\abdul\\ColorSwitch\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowEIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T09:15:19.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ColorChanger.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\ColorSwitch\\Assets\\Scripts\\ColorChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ColorChanger.cs",
+              "ToolTip": "C:\\Users\\abdul\\ColorSwitch\\Assets\\Scripts\\ColorChanger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ColorChanger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T04:54:21.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Finish.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\ColorSwitch\\Assets\\Scripts\\Finish.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Finish.cs",
+              "ToolTip": "C:\\Users\\abdul\\ColorSwitch\\Assets\\Scripts\\Finish.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Finish.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T13:05:31.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\ColorSwitch\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\abdul\\ColorSwitch\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T12:21:03.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ButtonManager.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\ColorSwitch\\Assets\\Scripts\\ButtonManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonManager.cs",
+              "ToolTip": "C:\\Users\\abdul\\ColorSwitch\\Assets\\Scripts\\ButtonManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T09:05:27.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScoreDataSO.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\ColorSwitch\\Assets\\Scripts\\ScoreDataSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreDataSO.cs",
+              "ToolTip": "C:\\Users\\abdul\\ColorSwitch\\Assets\\Scripts\\ScoreDataSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreDataSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T13:13:36.748Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
